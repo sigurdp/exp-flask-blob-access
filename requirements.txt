@@ -1,0 +1,6 @@
+flask
+pyarrow
+pandas
+azure-storage-blob
+fsspec
+adlfs
